@@ -1,6 +1,6 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
 <h3>Name: Janani R</h3>
-<h3>Register Number/Staff Id: 212225220041</h3>
+<h3>Register Number: 212225220041</h3>
 
 
 <h3>AIM:</h3>
