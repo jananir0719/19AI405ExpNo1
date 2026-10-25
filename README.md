@@ -40,3 +40,11 @@
 <p>Treat unhealthy patients in each room. And check for the unhealthy patients in random room</p>
 <h3>STEP 5:</h3>
 <p>Measure the performance parameters: For each treatment performance incremented, for each movement performance decremented</p>
+
+<img width="1015" height="933" alt="Screenshot 2026-10-25 214241" src="https://github.com/user-attachments/assets/87beca93-5a18-41a0-a8ef-c17f00ba7dee" />
+<img width="666" height="313" alt="Screenshot 2026-10-25 214247" src="https://github.com/user-attachments/assets/3561bb9e-a778-4800-99f5-e4e0c274b7f0" />
+
+<img width="772" height="207" alt="Screenshot 2026-10-25 214220" src="https://github.com/user-attachments/assets/76134a68-fd4c-42f4-9535-8aaf2dd24b24" />
+
+
+
